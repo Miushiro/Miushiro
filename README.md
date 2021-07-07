@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Miushiro
+- 👋 Hi, I’m <strong>@Miushiro</strong>, can call me Kiri or Miu or Shiro.
 - 👀 Primary Interest: NONE
-- 🌱 Currently Learning ReactJS, Java and PHP
-- 💞️ Half Asleep from all night coding =3=
+- 🌱 Currently Learning ReactJS, BabylonJS, Javascript, PHP and Server Management for Nginx and Apache Systems
+- 💞️ Status: Half Asleep from all night coding |||=3=)
 - 📫 EMAIL: jackyjongjc@gmail.com
 
 <!---
